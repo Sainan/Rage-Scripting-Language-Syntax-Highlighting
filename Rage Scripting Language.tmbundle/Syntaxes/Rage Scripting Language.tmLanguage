@@ -16,7 +16,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(INT|BOOL|FLOAT|CONST_INT|STRING)\b</string>
+			<string>\b(INT|BOOL|FLOAT|CONST_INT|STRING|TEXT_LABEL_\d+)\b</string>
 			<key>name</key>
 			<string>storage.type.ragescriptinglanguage</string>
 		</dict>
